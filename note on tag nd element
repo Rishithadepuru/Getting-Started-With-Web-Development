@@ -1,0 +1,9 @@
+4. Short Note on Tag and Element 
+● Tag: A tag is a keyword enclosed in angle brackets (<>). It defines how content should be displayed in HTML. 
+● Element: An element consists of a start tag, content, and an end tag. Example: 
+<p>This is a paragraph.</p> 
+Here: 
+● <p> is the start tag. 
+● "This is a paragraph." is the content. 
+● </p> is the end tag. 
+● Together, they form a paragraph element.
