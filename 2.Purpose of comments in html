@@ -1,0 +1,16 @@
+2. Purpose of Comments in HTML 
+Purpose of Comments in HTML: 
+● Comments are used to add notes or explanations in the code. ● They do not appear in the web browser. 
+● Helpful for developers to understand the code. 
+Example of Comments in HTML: 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Comments in HTML</title> 
+</head> 
+<body> 
+<!-- This is a comment in HTML --> 
+<h1>Welcome to My Website</h1> 
+<p>This is a paragraph.</p> 
+</body> 
+</html>
